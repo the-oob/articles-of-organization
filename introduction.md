@@ -1,6 +1,6 @@
 # The Out of Band
 
-This document describes how The Out of Band is organized.
+This document describes how The Out of Band organizes itself.
 
 ## Our Mission
 
