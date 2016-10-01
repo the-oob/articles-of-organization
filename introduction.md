@@ -8,13 +8,13 @@ The Out of Band is an infrastructure provider for creative-technical projects th
 
 ## Roles in The Out of Band
 
-**Facilitators** of the Out of Band are people who do work in or for the space: crafters, leaders-of-workshops, educators, artists. Board members should also be facilitators (?) meaning that they have interest not only in the OOB as a legal entity, but also as the resource it provides.
+**Facilitators** of the Out of Band are people who do work in or for the space: crafters, leaders of workshops, educators, artists. **Board members** should also be facilitators, meaning that they have interest not only in the Out of Band as a legal entity but also as a resource.
 
 **Everyone** who is part of The Out of Band is partially responsible for maintaining this atmosphere.
 
-**The Board** acts as a legal barrier between The Out of Band and legal realities. They make sure taxes are good. In case of emergency, they can reboot The Out of Band.
+**Electrons** of the Out of Band are those who pay dues or have an agreement with the Treasurer in lieu of paying dues, and so have a material investment in the Out of Band. Electrons have powers such as blocking consensus and voting in elections of the board.
 
-**Electrons** are those who pay dues (or have an agreement with the Treasurer in lieu of dues) and have a material investment in the OOB. The Electrons have powers like blocking in consensus decisions and voting in the Board elections.
+**The Board** is the legal interface for the Out of Band. It is responsible for handling legal existential threats to the Out of Band such as: running out of money, paying rent/other bills on time, not getting sued.
 
 ## What we facilitate
 
