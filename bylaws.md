@@ -8,7 +8,7 @@ When structuring the bylaws, we propose to achieve the following goals:
 * Shield directors, officers, participants from liability
 * Ensure that the Out of Band lives beyond any one charismatic leader
 * Ensure that The Out of Band is community led, not top-down directed
-* Delegate responsibilities for infrastructure maintenence?
+* Delegate responsibilities for infrastructure maintenance?
 * Protect privacy of electrons/officers/directors/contributors
 * Allow open contribution to The Out of Band
 
