@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Introduction](introduction.md)
-* Bylaws
+* [Bylaws](bylaws.md)
 
