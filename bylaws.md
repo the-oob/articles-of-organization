@@ -25,7 +25,7 @@ The Out of Band is an infrastructure provider for creative-technical projects th
 # Values
 *The things we believe in, copied from the wiki pages*
 # Board
-*How many people are on the board?*
+*How many people are on the board? Since the Board is the legal-interface portion of the Out of Band, do we want the Board to consist of the Officers? (If the officers, just the officers?)*
 ## Powers of the Board
 The board may exercise all corporate powers of this corporation.
 ## Qualifications of the Board
@@ -44,7 +44,7 @@ The board may exercise all corporate powers of this corporation.
 ### Special meetings
 *Describe meetings outside of the yearly meeting*
 ### Quorum
-*Whats a quoroum of the board constitute?
+*Whats a quorum of the board constitute?
 # Officers
 ## Officers of the corporation
 *What officers do we have? At minimum, we have: President/CEO, Secretary, Treasurer/CFO; the State of California allows us to combine Secretary + Treasurer into some sort of business equivalent of a Steven Universe Gem Fusion, but I don’t think we necessarily want that.*
