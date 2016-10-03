@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Bylaws](bylaws.md)
    * [Board of Directors](bylaws/board-of-directors.md)
-   * Officers
+   * [Officers](bylaws/officers.md)
 
