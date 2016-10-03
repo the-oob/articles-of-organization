@@ -5,7 +5,7 @@
 Subject to the provisions and limitations of the California Nonprofit Public Benefit Corporation Law and any other applicable laws, and subject to any limitations of the articles of incorporation or bylaws regarding actions that require approval of the members, the corporation's activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the board.
 
 *This section was copied from Noisebridge bylaws as a template*
-{% include "bylaw-pending.md"%}
+{% include "../bylaw-pending.md"%}
 ### Specific powers
 Without prejudice to the general powers set forth in Section ##FIXME##. of these bylaws, but subject to the same limitations, the board shall have the power to do the following:
 
@@ -14,7 +14,7 @@ Without prejudice to the general powers set forth in Section ##FIXME##. of these
 3. Borrow money and incur indebtedness on the corporation's behalf and cause to be executed and delivered for the corporation's purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.
 
 *This section was copied from Noisebridge bylaws as a template*
-{% include "bylaw-pending.md"%}
+{% include "../bylaw-pending.md"%}
 
 ## Restriction on Interested Persons as Directors
 No more than 49 percent of the persons serving on the board may be "interested persons." An interested person is
@@ -25,7 +25,7 @@ No more than 49 percent of the persons serving on the board may be "interested p
 However, any violation of this paragraph shall not affect the validity or enforceability of transactions entered into by the corporation.
 
 *This section was copied from Noisebridge bylaws as a template*
-{% include "bylaw-pending.md"%}
+{% include "../bylaw-pending.md"%}
 
 ## Qualifications of the Board
 *Who is eligible to be on the board?*
@@ -50,4 +50,4 @@ No director of this corporation nor any other corporation, firm, association, or
 This Section does not apply to a transaction that is part of an educational or charitable program of this corporation if it (a) is approved or authorized by the corporation in good faith and without unjustified favoritism and (b) results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the educational or charitable program of this corporation.
 
 *This section was copied from Noisebridge bylaws as a template*
-{% include "bylaw-pending.md"%}
+{% include "../bylaw-pending.md"%}
