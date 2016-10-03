@@ -51,7 +51,7 @@ The board may exercise all corporate powers of this corporation.
 ## Responsibilities
 *What responsibilities do each of the officers have? Can we fill these out based off of definitions from the State of California/US law?*
 *President: ...*
-*Secretary: ...*
+*Secretary: keeping notes/minutes, staying on top of any legal paperwork that needs to be filed, donation thank-you's, whatever membership processing looks like if there's data entry involved
 *Treasurer: fundraising; making sure that the OOB has money for bills; ...*
 ## Election/appointment
 *How do we pick the officers?*
