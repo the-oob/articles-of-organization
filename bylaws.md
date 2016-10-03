@@ -12,12 +12,16 @@ When structuring the bylaws, we propose to achieve the following goals:
 * Protect privacy of electrons/officers/directors/contributors
 * Allow open contribution to The Out of Band
 
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 
 # Name
 The Name of this corporation is The Out of Band
+
+{% include "bylaw-approved.md"%}
 # Mission
 The Out of Band is an infrastructure provider for creative-technical projects that enables people to explore within the domains of Art, Science, and Technology with the intent to create positive social change.
+
+{% include "bylaw-approved.md"%}
 # Purpose
 *List a few things we do, copied from other bylaws*
 *Ex.: To accomplish our mission, the Out of Band provides: safe [and comfortable?] physical/virtual space for workshops, classes, and forums; tools for physical/virtual crafting, and training to use these tools safely and effectively;*
@@ -30,10 +34,12 @@ The activities of the Corporation shall be performed in service to and with guid
 Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the California Nonprofit Corporation Law shall govern the construction of these bylaws. Without limiting the generality of the preceding sentence, the singular includes the plural, the plural includes the singular, and the term "person" includes both a legal entity and a natural person.
 
 *This section is for CA nonprofit status*
+{% include "bylaw-pending.md"%}
 # Dedication of Assets
 This corporation's assets are irrevocably dedicated to public benefit purposes. No part of the net earnings, properties, or assets of the corporation, on dissolution or otherwise, shall inure to the benefit of any private person or individual, or to any director or officer of the corporation. On liquidation or dissolution, all properties and assets remaining after payment, or provision for payment, of all debts and liabilities of the corporation shall be distributed to a nonprofit fund, foundation, or corporation that is organized and operated exclusively for charitable purposes and that has established its exempt status under Internal Revenue Code section 501 (c)(3).
 
 *This section is for 501c3*
+{% include "bylaw-pending.md"%}
 # Values
 *The things we believe in, copied from the wiki pages*
 # Board of Directors
@@ -43,7 +49,7 @@ This corporation's assets are irrevocably dedicated to public benefit purposes. 
 Subject to the provisions and limitations of the California Nonprofit Public Benefit Corporation Law and any other applicable laws, and subject to any limitations of the articles of incorporation or bylaws regarding actions that require approval of the members, the corporation's activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the board.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 ### Specific powers
 Without prejudice to the general powers set forth in Section ##FIXME##. of these bylaws, but subject to the same limitations, the board shall have the power to do the following:
 
@@ -52,7 +58,7 @@ Without prejudice to the general powers set forth in Section ##FIXME##. of these
 3. Borrow money and incur indebtedness on the corporation's behalf and cause to be executed and delivered for the corporation's purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 
 ## Restriction on Interested Persons as Directors
 No more than 49 percent of the persons serving on the board may be "interested persons." An interested person is
@@ -63,7 +69,7 @@ No more than 49 percent of the persons serving on the board may be "interested p
 However, any violation of this paragraph shall not affect the validity or enforceability of transactions entered into by the corporation.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 
 ## Qualifications of the Board
 *Who is eligible to be on the board?*
@@ -116,25 +122,26 @@ No director of this corporation nor any other corporation, firm, association, or
 This Section does not apply to a transaction that is part of an educational or charitable program of this corporation if it (a) is approved or authorized by the corporation in good faith and without unjustified favoritism and (b) results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the educational or charitable program of this corporation.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
+
 #Loans to Directors and Officers
 This corporation shall not lend any money or property to or guarantee the obligation of any director or officer without the approval of the California Attorney General, provided, however, that the corporation may advance money to a director or officer of the corporation for expenses reasonably anticipated to be incurred in the performance of his or her duties if that director or officer would be entitled to reimbursement for such expenses by the corporation.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 #Indemnification
 To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Corporations Code section 5238(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Corporations Code. On written request to the board by any person seeking indemnification under Corporations Code section 5238(b) or section 5238(c) the board shall promptly decide under Corporations Code section 5238(e) whether the applicable standard of conduct set forth in Corporations Code section 5238(b) or section 5238(c) has been met and, if so, the board shall authorize indemnification. If the board cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the board shall promptly call a meeting of members. At that meeting, the members shall determine under Corporations Code section 5238(e) whether the applicable standard of conduct has been met and, if so, the members present at the meeting in person or by proxy shall authorize indemnification.
 
 To the fullest extent permitted by law and except as otherwise determined by the board in a specific instance, expenses incurred by a person seeking indemnification under Article 11 of these bylaws in defending any proceeding covered by that Section shall be advanced by the corporation before final disposition of the proceeding, on receipt by the corporation of an undertaking by or on behalf of that person that the advance will be repaid unless it is ultimately found that the person is entitled to be indemnified by the corporation for those expenses.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 
 # Insurance
 This corporation shall have the right, and shall use its best efforts, to purchase and maintain insurance to the full extent permitted by law on behalf of its officers, directors, employees, and other agents, to cover any liability asserted against or incurred by any officer, director, employee, or agent in such capacity or arising from the officer's, director's, employee's, or agent's status as such.
 
 *This section was copied from Noisebridge bylaws as a template*
-*This section has not been approved by consensus yet and is open for discussion.*
+{% include "bylaw-pending.md"%}
 
 
 # Interested Persons
