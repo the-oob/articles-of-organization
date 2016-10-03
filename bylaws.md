@@ -94,7 +94,7 @@ However, any violation of this paragraph shall not affect the validity or enforc
 ## Responsibilities
 *What responsibilities do each of the officers have? Can we fill these out based off of definitions from the State of California/US law?*
 *President: ...*
-*Secretary: keeping notes/minutes, staying on top of any legal paperwork that needs to be filed, donation thank-you's, whatever membership processing looks like if there's data entry involved
+*Secretary: ...*
 *Treasurer: fundraising; making sure that the OOB has money for bills; ...*
 ## Election/appointment
 *How do we pick the officers?*
