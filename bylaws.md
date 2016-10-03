@@ -41,7 +41,21 @@ This corporation's assets are irrevocably dedicated to public benefit purposes. 
 *This section is for 501c3*
 {% include "bylaw-pending.md"%}
 # Values
-*The things we believe in, copied from the wiki pages*
+We the hackers of The Out of Band do value:
+
+**Pragmatism, Love, Diversity, Mutability, Collaboration, Access, Boundaries.**
+
+* **Pragmatism over Utopianism**: Some things will never be done. Working is better than perfect.
+* **Love within and without**: We're excellent to each other here. Feelings are important. We're making a safer space in the world.
+* **Diversity**: Privilege and systemic oppression are real. We need to be inclusive of more than just straight white guys.
+* **Access, mutability, and transparency over exclusivity**: Everyone should feel empowered to use The Out of Band. Everyone should know how The Out of Band works. Everyone should feel empowered to change things how they see fit to accomplish our goals.
+* **Collaboration over isolation and competition**: The Out of Band is an incubator of ideas. Big ideas won't come from just one person. We need to help out each other and be able to accept that help graciously.
+* **Boundaries**: All are welcome to come to The Out of Band; not all are welcome to stay. We have a right to define where that line is.
+
+As such, we are committed to upholding these values.
+
+{% include "bylaw-pending.md"%}
+
 # Board of Directors
 *How many people are on the board? Since the Board is the legal-interface portion of the Out of Band, do we want the Board to consist of the Officers? (If the officers, just the officers?)*
 ## General and Specific Powers of the Board
