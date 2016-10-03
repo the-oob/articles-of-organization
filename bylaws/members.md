@@ -1,5 +1,6 @@
 # Members
 *California law has a specific legal definition of 'membership', so we're safer off using the same legal terminology*: http://www.leginfo.ca.gov/.html/corp_table_of_contents.html
+*Probably need a definition of electron vs legal membership in the bylaws*
 ## Qualifications of Membership
 This corporation shall have one class of members. Any person dedicated to the purposes of the corporation, having been proposed for membership by a current member in good standing, and having been approved at the discretion of the membership, shall be eligible for membership on approval of the membership application by the board and on timely payment of such dues and fees as the board may fix from time to time.
 
