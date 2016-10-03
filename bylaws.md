@@ -83,7 +83,6 @@ This corporation shall have the right, and shall use its best efforts, to purcha
 *This section was copied from Noisebridge bylaws as a template*
 {% include "bylaw-pending.md"%}
 
-
 # Interested Persons
 *Required for 501c3. Includes conflict of interest policies*
 # Amendments
