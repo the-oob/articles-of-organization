@@ -22,3 +22,12 @@ This corporation shall keep at its principal California office the original or a
 ## Directors' Right to Inspect
 
 Every director shall have the absolute right at any reasonable time to inspect the corporation's books, records, documents of every kind, physical properties, and the records of each subsidiary. The inspection may be made in person or by the director's agent or attorney. The right of inspection includes the right to copy and make extracts of documents,
+
+# Maintenance of Corporate Records
+
+This corporation shall keep the following:
+* Adequate and correct books and records of account;
+* Minutes of the proceedings of its members, board; and
+* A record of each member's name, address, and class of membership.
+
+The minutes and other books and records shall be kept either in written form or in any other form capable of being converted into clearly legible tangible form or in any combination of the two.
