@@ -19,11 +19,6 @@ As a collective, functionary positions are voluntary roles taken on by willing m
 
 {% include "../bylaw-pending.md"%}
 
-## Qualifications
-Any member or non-member of this corporation may hold the office of a Functionary.
-
-{% include "../bylaw-pending.md"%}
-
 ## Removal and Replacement
 A Functionary may be replaced by another qualified person at any time during a Regular Meeting of the membership by a simple majority vote, or a resolution by the Board of Directors.
 
@@ -32,12 +27,17 @@ Excepting mandatory Functionary offices defined in these bylaws, a Functionary o
 {% include "../bylaw-pending.md"%}
 
 ## Resignation
-Any Functionary may voluntarily cede the role to another qualified person at any time by giving written notification to the Secretary Functionary, Chairperson of the Board, if any, or Board of Directors. The resignation shall take effect on the date the notice is received or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. Any resignation shall be without prejudice to any rights of the corporation under any contract to which the officeris a party.
+Any Functionary may voluntarily cede the role to another qualified person at any time by giving written notification to the Secretary Functionary, Chairperson of the Board, if any, or Board of Directors. The resignation shall take effect on the date the notice is received or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. Any resignation shall be without prejudice to any rights of the corporation under any contract to which the officer is a party.
 
 {% include "../bylaw-pending.md"%}
 
 ## Vacancies in Office
 A vacancy in any office because of death, resignation, removal, disqualification, or any other cause shall be filled in the manner prescribed in these bylaws for normal assumption to that office, provided, however, that vacancies need not be filled on an annual basis.
+
+## Qualifications
+Any member or non-member of this corporation may hold the office of a Functionary unless otherwise specified in these bylaws.
+
+{% include "../bylaw-pending.md"%}
 
 ## Responsibilities of Officers
 
@@ -48,17 +48,18 @@ If a Chairperson of the board of directors is elected, they shall preside at boa
 {% include "../bylaw-pending.md"%}
 
 ### Functionaries
-Functionaries of this Corporation shall be the general managers of the corporation and shall supervise, direct, and control the Corporation's activities, affairs, and lesser officers. Additionally, Functionaries shall supervise and direct each other in a manner consistent with this corporation's purpose. Excepting Functionaries described in these bylaws, the duties, responsibilities, titles and number of all functionaries shall be set by a decision of the Membership and recorded by the Secretary Functionary. Functionaries shall also have such other powers and duties as the board or the bylaws may require.
+Functionaries of this Corporation shall be the general managers of the corporation and shall supervise, direct, and control the Corporation's activities, affairs, and lesser officers. Additionally, Functionaries shall supervise and direct each other in a manner consistent with this corporation's purpose. Excepting Functionaries described in these bylaws, the duties, responsibilities, and number of all functionaries shall be set by a decision of the Membership and recorded by the Secretary Functionary in accordance with the procedures and regulations set forth in these bylaws. Functionaries shall also have such other powers and duties as the board or the bylaws may require.
 
 {% include "../bylaw-pending.md"%}
 
 ### Secretary Functionary
 In addition to responsibilities common to all Functionaries, the Secretary Functionary shall keep or cause to be kept, at the corporation's principal office or such other place as the board may direct, a book of minutes of all meetings, proceedings, and actions of the board, and of members' meetings. The minutes of meetings shall include the time and place that the meeting was held; whether the meeting was annual, general, or special, and, if special, how authorized; the notice given; the names of persons present at board meetings; and the number of members present or represented at members' meetings.
 
-The secretary shall keep or cause to be kept, at the principal California office, a copy of the articles of incorporation and bylaws, as amended to date.
-The secretary shall keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's members, showing each member's name and email address.
-The secretary shall give, or cause to be given, notice of all meetings of members and of the board these bylaws require to be given. The secretary shall keep the corporate seal, if any, in safe custody and shall have such other powers and perform such other duties as the board or the bylaws may require.
-The secretary shall keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's functionary officers, showing each officer's name and description of responsibilities.
+The Secretary Functionary shall
+* keep or cause to be kept, at the principal California office, a copy of the articles of incorporation and bylaws, as amended to date.
+* keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's members, showing each member's name and email address.
+* keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's functionary officers, showing each officer's name, email address, and description of responsibilities.
+* give, or cause to be given, notice of all meetings of members and of the board these bylaws require to be given. The secretary shall keep the corporate seal, if any, in safe custody and shall have such other powers and perform such other duties as the board or the bylaws may require.
 
 {% include "../bylaw-pending.md"%}
 
