@@ -1,13 +1,13 @@
 # Officers of the Corporation
 ## Offices held
-The officers of this corporation shall be a number of Functionaries, with a minimum of a Secretary Functionary and Treasurer Functionary at all times. The corporation, at the board's discretion, may also have a chairman of the board.
+The officers of this corporation shall be a number of Functionaries, with a minimum of a Secretary Functionary and Treasurer Functionary at all times. The corporation, at the board's discretion, may also have a chairperson of the board.
 
-Neither the Secretary Functionary nor the Treasurer Functionary may serve concurrently as either the President or Chairman of the Board.
+Neither the Secretary Functionary nor the Treasurer Functionary may serve concurrently as either the President or Chairperson of the Board.
 
 {% include "../bylaw-pending.md"%}
 
-## Appointment of the Chairman of the Board
-At the board's discretion, a member of the board of directors may be may be chosen annually by the board to be appointed to the office of chairman of the board and shall serve at the pleasure of the board, subject to the rights of any officer under any employment contract.
+## Appointment of the Chairperson of the Board
+At the board's discretion, a member of the board of directors may be may be chosen annually by the board to be appointed to the office of chairperson of the board and shall serve at the pleasure of the board, subject to the rights of any officer under any employment contract.
 
 {% include "../bylaw-pending.md"%}
 
@@ -69,7 +69,7 @@ The Treasury Functionary shall
 * deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the board may designate;
 * disburse the corporation's funds as the board may order;
 * collect or cause to be collected membership dues, donations, and other revenue;
-* render to the functionaries, chairman of the board, if any, and the board, when requested, an account of all transactions as Treasury Functionary and of the financial condition of the corporation; and
+* render to the functionaries, chairperson of the board, if any, and the board, when requested, an account of all transactions as Treasury Functionary and of the financial condition of the corporation; and
 * have such other powers and perform such other duties as the board or the bylaws may require.
 
 If required by the board, the Treasury Functionary shall give the corporation a bond in the amount and with the surety or sureties specified by the board for faithful performance of the duties of the office and for restoration to the corporation of all of its books, papers, vouchers, money, and other property of every kind in the possession or under the control of the chief financial officer on his or her death, resignation, retirement, or removal from office.
