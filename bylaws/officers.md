@@ -11,23 +11,28 @@ At the board's discretion, a member of the board of directors may be may be chos
 
 {% include "../bylaw-pending.md"%}
 
-## Assumption of Office of Functionary
+## Appointment of Other Functionaries
+The membership may create additional functionary positions at any time during a Regular Meeting of the membership by resolution that such a position is warranted to fulfill the essential needs of this corporation's activities, and a qualified person shall be appointed to the office concurrent with the creation of the office.
+
+## Voluntary Assumption and Performance of Office of Functionary
 As a collective, functionary positions are voluntary roles taken on by willing members and intended to change regularly. No person may hold more than one position simultaneously, unless permitted by the membership. Any member or non-member of this corporation may perform any of the functions of any of the Functionaries, however the Functionaries are expected to perform their duties regularly and must perform them if no one else can or will.
 
 {% include "../bylaw-pending.md"%}
 
 ## Qualifications
-Any member or non-member of this corporation may assume the office of a Functionary.
+Any member or non-member of this corporation may hold the office of a Functionary.
 
 {% include "../bylaw-pending.md"%}
 
 ## Removal and Replacement
 A Functionary may be replaced by another qualified person at any time during a Regular Meeting of the membership by a simple majority vote, or a resolution by the Board of Directors.
 
+Excepting mandatory Functionary offices defined in these bylaws, a Functionary office may be removed at any time during a regular meeting of the membership by resolution that such a position is no longer needed to fulfill the essential needs of this corporation's activities, with the consent of the current functionary in said office.
+
 {% include "../bylaw-pending.md"%}
 
 ## Resignation
-Any Functionary may voluntarily cede the role to another qualified person at any time by giving written notification to the Secretary Functionary, Chairman of the Board, if any, or Board of Directors. The resignation shall take effect on the date the notice is received or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. Any resignation shall be without prejudice to any rights of the corporation under any contract to which the officeris a party.
+Any Functionary may voluntarily cede the role to another qualified person at any time by giving written notification to the Secretary Functionary, Chairperson of the Board, if any, or Board of Directors. The resignation shall take effect on the date the notice is received or at any later time specified in the notice. Unless otherwise specified in the notice, the resignation need not be accepted to be effective. Any resignation shall be without prejudice to any rights of the corporation under any contract to which the officeris a party.
 
 {% include "../bylaw-pending.md"%}
 
@@ -36,9 +41,9 @@ A vacancy in any office because of death, resignation, removal, disqualification
 
 ## Responsibilities of Officers
 
-### Chairman of the Board
+### Chairperson of the Board
 
-If a chairman of the board of directors is elected, they shall preside at board meetings and shall exercise and perform such other powers and duties as the board may assign from time to time. If there is no president, the chairman of the board shall also be the chief executive officer and shall have the powers and duties of the president of the corporation set forth in these bylaws.
+If a Chairperson of the board of directors is elected, they shall preside at board meetings and shall exercise and perform such other powers and duties as the board may assign from time to time. If there is no president, the chairperson of the board shall also be the chief executive officer and shall have the powers and duties of the president of the corporation set forth in these bylaws.
 
 {% include "../bylaw-pending.md"%}
 
@@ -53,6 +58,7 @@ In addition to responsibilities common to all Functionaries, the Secretary Funct
 The secretary shall keep or cause to be kept, at the principal California office, a copy of the articles of incorporation and bylaws, as amended to date.
 The secretary shall keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's members, showing each member's name and email address.
 The secretary shall give, or cause to be given, notice of all meetings of members and of the board these bylaws require to be given. The secretary shall keep the corporate seal, if any, in safe custody and shall have such other powers and perform such other duties as the board or the bylaws may require.
+The secretary shall keep or cause to be kept, at the corporation's principal office or at a place determined by resolution of the board, a record of the corporation's functionary officers, showing each officer's name and description of responsibilities.
 
 {% include "../bylaw-pending.md"%}
 
