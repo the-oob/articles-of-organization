@@ -10,7 +10,7 @@ The Out of Band is an infrastructure provider for creative-technical projects th
 
 **Facilitators** of the Out of Band are people who do work in or for the space: crafters, leaders of workshops, educators, artists, to name a few. They do the work to make it happen; not because they need to, but because they want to. In exchange, facilitators of The Out of Band are enriched through the creative energy they foster and the community that is cultivated by us all.
 
-**Everyone** who is part of The Out of Band is partially responsible for maintaining this atmosphere. All who enter are guardians of the space and it is our collective responsibility to keep it positive and going forward.
+**Everyone** who is part of The Out of Band is partially responsible for maintaining this atmosphere. All who enter are guardians of the space and it is our collective responsibility to keep it positive and going forward. One needs not be a facilitator of The Out of Band to leave a net positive impact. Your active presence is enough.
 
 **Members** of the Out of Band are those who pay dues or have an agreement with the Treasurer in lieu of paying dues, and so have a material investment in the Out of Band. Members have two limited powers: blocking consensus and voting in elections of the board. In all other aspects, the value of membership in The Out of Band is for you to determine. It isn't required to use or even contribute to the space; membership can be applied for but it is only granted by consensus.
 
