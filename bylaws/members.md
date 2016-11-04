@@ -1,35 +1,152 @@
 # Members
 *California law has a specific legal definition of 'membership', so we're safer off using the same legal terminology*: http://www.leginfo.ca.gov/.html/corp_table_of_contents.html
 *Probably need a definition of electron vs legal membership in the bylaws*
+
 ## Qualifications of Membership
 This corporation shall have one class of members. Any person dedicated to the purposes of the corporation, having been proposed for membership by a current member in good standing, and having been approved at the discretion of the membership, shall be eligible for membership on approval of the membership application by the board and on timely payment of such dues and fees as the board may fix from time to time.
 
-{% include "../bylaw-pending.md" %}
-
 ## Rights of Membership
 *What can electrons do within the OOB?*
+
+All members shall have the right to vote, as set forth in these bylaws, on the election of directors, on the disposition of all or substantially all of the corporation's assets, on any merger and its principal terms and any amendment of those terms, and on any election to dissolve the corporation. In addition, members shall have all rights afforded members under the California Nonprofit Public Benefit Corporation Law.
+
 ## Other Persons Associated With Corporation
 This corporation may refer other persons or entities associated with it as "members," even though those persons or entities are not voting members as set forth in this Article ##FIXME## of these bylaws, but no such reference shall constitute anyone as a member within the meaning of Corporations Code section 5056 unless that person or entity shall have qualified for a voting membership under Section ##FIXME## of these bylaws. References in these bylaws to "members" shall mean members as defined in Corporations Code section 5056; i.e., the members of the class set forth in Section ##FIXME## of these bylaws. By amendment of its articles of incorporation or of these bylaws, the corporation may grant some or all of the rights of a member of any class to any person or entity that does not have the right to vote on the matters specified in Section ##FIXME## of these bylaws, but no such person or entity shall be a member within the meaning of Corporations Code section 5056.
 
-*This section was copied from Noisebridge bylaws for use as a template.*
-{% include "../bylaw-pending.md" %}
+## Members' Dues, Fees, and Assessments
+
+Each member must pay, within the time and on the conditions set by the board, the dues, fees, and assessments in amounts to be fixed from time to time by the board.
+
+## Members in Good Standing
+
+Members who have paid the required dues, fees, and assessments in accordance with these bylaws and who are not suspended shall be members in good standing.
 
 ## Termination of Membership
-*Under what circumstances does the oob forcefully terminate someone's membership?*
+A membership shall terminate on occurrence of any of the following events:
+* Resignation of the member;
+* Expiration of the period of membership. unless the membership is renewed on the renewal terms fixed by the board;
+* The member's failure to pay dues, fees, or assessments as set by the board within 30 days after they are due and payable;
+* Any event that renders the member ineligible for membership, or failure to satisfy membership qualifications; or
+* Termination of membership under Section ##FIXME## of these bylaws based on the good faith determination by the board, or a committee or person authorized by the board to make such a determination, that the member has failed in a material and serious degree to observe the rules of conduct of the corporation, or has engaged in conduct materially and seriously prejudicial to the corporation's purposes and interests.
+
 ## Suspension of Membership
-*Under what circumstances can an electron suspend their membership?*
+A member may be suspended, under Section ##FIXME## of these bylaws, based on the good faith determination by the board, or a committee or person authorized by the board to make such a determination, that the member has failed in a material and serious degree to observe the corporation's rules of conduct, or has engaged in conduct materially and seriously prejudicial to the corporation's purposes and interests. A person whose membership is suspended shall not be a member during the period of suspension,
+
 ## Termination or Suspension of Membership - Procedure
-*Describe the steps needed to suspend or terminate a membership*
+If grounds appear to exist for suspending or terminating a member under Sections 6.6 and 6.7 of these bylaws, the following procedure shall be followed:
+
+* The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice given by mail shall be sent by first-class or registered mail to the member's last address as shown on the corporation's records.
+* The member shall be given an opportunity to be heard, either orally or in writing, at least five days before the effective date of the proposed suspension or termination. The hearing shall be held, or the written statement considered, by the board or by a committee or person authorized by the board to determine whether the suspension or termination should occur.
+* The board, committee, or person shall decide whether a member should be suspended, expelled, or sanctioned in any way. The decision of the board, committee, or person shall be final.
+* Any action challenging an expulsion, suspension, or termination of membership, including a claim alleging defective notice, must be commenced within one year after the date of the expulsion, suspension, or termination.
+
 ## Non-transferability of Memberships
 No membership or right arising from membership shall be transferred. All membership rights cease on the member's death or incapacity.
 
-*This section was copied from Noisebridge bylaws for use as a template.*
-{% include "../bylaw-pending.md" %}
-
 ## Meetings
-### Annual Meeting
-*Do we have a special yearly meeting of higher gravitas?*
-### Regular Meeting
+
+### General Meeting
+#### Annual Meeting
+A general meeting of members shall be held at least annually at such time and place, and on such notice, if any, as the board may determine. Unless elected by written ballot, directors shall be elected at this meeting. Subject to Section 6.11 of these bylaws, any other proper business may be transacted at this meeting.
+
+#### Place of Meeting
+Meetings of the members shall be held at any place within or outside California designated by the board or by the written consent of all members entitled to vote at the meeting, given before or after the meeting. In the absence of any such designation, members' meetings shall be held at the corporation's principal office. The board may authorize members who are not present in person to participate by electronic transmission or electronic video communication.
+
+#### Meeting conducted by Electronic Transmission
+A meeting of the members may be conducted, in whole or in part, by electronic transmission by and to the corporation or by electronic video screen communication
+
+* if the corporation implements reasonable measures to provide members in person or by proxy a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with those proceedings, and
+* if any member votes or takes other action at the meeting by means of electronic transmission to the corporation or electronic video screen communication, a record of that vote or action is maintained by the corporation. Any request by a corporation to a member pursuant to Corporations Code section 20(b) for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member pursuant to Corporations Code section 20(b), the meeting shall be held at a physical location in accordance with Section ##FIXME## of these bylaws.
+
 *Should we enshrine the weekly meeting in the bylaws?*
+
 ### Special Meetings
-*How do we regulate decision-making meetings outside of the weekly meeting?*
+
+#### Authority to Call Special Meetings
+The board or the chairman of the board, if any, or the president, or five percent (5%) or more of the members, may call a special meeting of the members for any lawful purpose at any time.
+
+#### Calling Special Meetings
+A special meeting called by any person entitled to call a meeting of the members shall be called by written request, specifying the general nature of the business proposed to be transacted, and submitted to the chair of the board, if any, or the president or any vice president or the secretary of the corporation. The officer receiving the request shall cause notice to be given promptly to the members entitled to vote, under Section 6.11 of these bylaws, stating that a meeting will be held at a specified time and date fixed by the board, provided, however, that the meeting date shall be at least 35 but no more than 90 days after receipt of the request. If the notice is not given within 20 days after the request is received, the person or persons requesting the meeting may give the notice. Nothing in this Section shall be construed as limiting, fixing, or affecting the time at which a meeting of members may be held when the meeting is called by the board.
+
+#### Proper Business of Special Meeting
+
+No business, other than the business that was set forth in the notice of the meeting, may be transacted at a special meeting.
+
+## Notice
+
+### General Notice Requirements
+
+Whenever members are required or permitted to take any action at a meeting, a written notice of the meeting shall be given, under Sections 6.11 of these bylaws, to each member entitled to vote at that meeting. The notice shall specify the place, date, and hour of the meeting, and the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in the meeting. For the annual meeting, the notice shall state the matters that the board, at the time notice is given, intends to present for action by the members. For a special meeting, the notice shall state the general nature of the business to be transacted and shall state that no other business may be transacted. The notice of any meeting at which directors are to be elected shall include the names of all persons who are nominees when notice is given.
+
+### Notice of Certain Agenda Items
+
+Approval by the members of any of the following proposals, other than by unanimous approval by those entitled to vote, is valid only if the notice or written waiver of notice states the general nature of the proposal or proposals:
+
+* Removing a director without cause;
+* Filling vacancies on the board;
+* Amending the articles of incorporation; or
+* Electing to wind up and dissolve the corporation.
+
+### Manner of Giving Notice
+
+Notice of any meeting of members shall be in writing and shall be given at least 10 but no more than 90 days before the meeting date. The notice shall be given either personally or by first-class, registered, or certified mail, or by other means of written communication, charges prepaid, and shall be addressed to each member entitled to vote, at the address of that member as it appears on the books of the corporation or at the address given by the member to the corporation for purposes of notice.
+* Notice given by electronic transmission by the corporation shall be valid only if
+  * Delivered by
+    * facsimile telecommunication or electronic mail when directed to the facsimile number or electronic mail address, respectively, for that recipient on record with the corporation;
+    * posting on an electronic message board or network that the corporation has designated for those communications, together with a separate notice to the recipient of the posting, which transmission shall be validly delivered on the later of the posting or delivery of the separate notice of it; or
+    * other means of electronic communication;
+  * To a recipient who has provided an unrevoked consent to the use of those means of transmission for communications; and
+  * That creates a record that is capable of retention, retrieval, and review, and that may thereafter be rendered into clearly legible tangible form.
+* Notwithstanding the foregoing,
+  * An electronic transmission by this corporation to a member is not authorized unless, in addition to satisfying the requirements of this section, the transmission satisfies the requirements applicable to consumer consent to electronic record as set forth in the Electronic Signatures in Global and National Commerce Act (15 United States Code section 7001 (c)(1)).
+  * Notice shall not be given by electronic transmission by the corporation after either of the following:
+    * the corporation is unable to deliver two consecutive notices to the member by that means or
+    * the inability so to deliver the notices to the member becomes known to the secretary, any assistant secretary, or any other person responsible for the giving of the notice.
+    
+### Affidavit of Mailing Notice
+
+An affidavit of the mailing of any notice of any members' meeting, or of the giving of such notice by other means, may be executed by the secretary, assistant secretary, or any transfer agent of the corporation, and if so executed, shall be filed and maintained in the corporation's minute book.
+
+## Voting
+
+*FIXME*
+
+## Actions Without Meetings / Action by unaimous written consent
+
+Any action required or permitted to be taken by the members may be taken without a meeting, if all members consent in writing to the action. The written consent or consents shall be filed with the minutes of the meeting. The action by written consent shall have the same force and effect as a unanimous vote of the members.
+
+## Record Date
+
+### Record Date for Notice, Voting, and Other Board Actions
+
+For purposes of establishing the members entitled to receive notice of any meeting, entitled to vote at any meeting, or entitled to exercise any rights in any lawful action, the board of directors may, in advance, fix a record date. The record date so fixed for
+* sending notice of a meeting shall be no more than 90 nor less than 10 days before the date of the meeting;
+* voting at a meeting shall be no more than 60 days before the date of the meeting;
+* taking any other action shall be no more than 60 days before that action.
+
+### Record Date for Actions Not Set by Board
+
+If not otherwise fixed by the board, the record date for determining members entitled to receive notice of a meeting of members shall be the next business day preceding the day on which notice is given or, if notice is waived, the next business day preceding the day on which the meeting is held. If not otherwise fixed by the board, the record date for determining members entitled to vote at the meeting shall be the day on which the meeting is held.
+If not otherwise fixed by the board, the record date for determining members entitled to exercise any rights with respect to any other lawful action shall be the date on which the board adopts the resolution relating to that action, or the 60th day before the date of that action, whichever is later.
+For purposes of this Section, a person holding a membership at the close of business on the record date shall be a member of record.
+
+## Proxies
+
+### Members' Proxy Rights
+
+Each member entitled to vote shall have the right to do so either in person or by one or more agents authorized by a written proxy, signed by the person and filed with the secretary of the corporation. A proxy shall be deemed signed if the member's name is placed on the proxy by the member or the member's attorney-in-fact, whether by manual signature, typewriting, facsimile transmission, or otherwise.
+
+### Subject Matter of Proxy to be Stated
+
+Any proxy covering matters for which a vote of the members is required shall not be valid unless the proxy sets forth the general nature of the matter to be voted on or, in an election of directors, the proxy lists the persons who have been nominated at the time the notice of the vote is given to the members. Such matters include amendments of the articles of incorporation or bylaws changing proxy rights; certain other amendments of the articles of incorporation; removal of directors without cause; filling vacancies on the board of directors; the sale, lease, exchange, conveyance, transfer, or other disposition of all or substantially all corporate assets, unless the transaction is in the usual and regular course of the corporation's activities; the principal terms of a merger or the amendment of a merger agreement; or the election to dissolve the corporation.
+
+### Revocability of Proxies
+No proxy shall be valid after the expiration of 11 months from the date of the proxy, unless provided otherwise in the proxy, except that the maximum term of a proxy shall be three years after the date of execution. A validly executed proxy shall continue in full force and effect until either
+* it is revoked by the member executing it, before the vote is cast under that proxy
+  * by a writing delivered to the corporation stating that the proxy is revoked, or
+  * by a subsequent proxy executed by that member and presented to the meeting, or
+  * as to any meeting, by that member's personal attendance and voting at the meeting; or
+* written notice of the death or incapacity of the maker of the proxy is received by the corporation before the vote under that proxy is counted. A proxy may not be irrevocable.
+
+## Adjournment and Notice of Adjourned Meetings
+Any members' meeting, whether or not a quorum is present, may be adjourned from time to time by the vote of the majority of the members represented at the meeting, either in person or by proxy. No meeting may be adjourned for more than 45 days. When a members' meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place to which the meeting is adjourned (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which adjournment is taken. If after adjournment a new record date is fixed for notice or voting, a notice of the adjourned meeting shall be given to each member who, on the record date for notice of the meeting, is entitled to vote at the meeting. At the adjourned meeting, the corporation may transact any business that might have been transacted at the original meeting.
